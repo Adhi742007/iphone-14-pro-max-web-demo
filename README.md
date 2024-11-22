@@ -1,0 +1,1 @@
+This is a project in which a demo of iphone 14 pro max is crated with html and css.
